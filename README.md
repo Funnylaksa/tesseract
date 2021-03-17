@@ -3,6 +3,11 @@
 Used python tesseract for OCR. Tried on toto ticket. 
 It is good for clean and structured content(uniform background with no special characters)
 
+![image](https://user-images.githubusercontent.com/10414144/111511412-aa28c500-8789-11eb-986a-6a7e5cac7dff.png)
+
+
+
+
 Putting below as a guide for future formatting of README
 
 
